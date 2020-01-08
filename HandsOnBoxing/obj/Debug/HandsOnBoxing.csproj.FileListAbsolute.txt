@@ -1,0 +1,5 @@
+D:\c#\HandsOn\HandsOnBoxing\bin\Debug\HandsOnBoxing.exe.config
+D:\c#\HandsOn\HandsOnBoxing\bin\Debug\HandsOnBoxing.exe
+D:\c#\HandsOn\HandsOnBoxing\bin\Debug\HandsOnBoxing.pdb
+D:\c#\HandsOn\HandsOnBoxing\obj\Debug\HandsOnBoxing.exe
+D:\c#\HandsOn\HandsOnBoxing\obj\Debug\HandsOnBoxing.pdb

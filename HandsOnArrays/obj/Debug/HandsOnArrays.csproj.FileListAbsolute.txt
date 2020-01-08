@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnArrays\bin\Debug\HandsOnArrays.exe.config
+D:\c#\HandsOn\HandsOnArrays\bin\Debug\HandsOnArrays.exe
+D:\c#\HandsOn\HandsOnArrays\bin\Debug\HandsOnArrays.pdb
+D:\c#\HandsOn\HandsOnArrays\obj\Debug\HandsOnArrays.exe
+D:\c#\HandsOn\HandsOnArrays\obj\Debug\HandsOnArrays.pdb
+D:\c#\HandsOn\HandsOnArrays\obj\Debug\HandsOnArrays.csprojAssemblyReference.cache

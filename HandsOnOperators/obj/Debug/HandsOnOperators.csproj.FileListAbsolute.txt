@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.exe.config
+D:\c#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.exe
+D:\c#\HandsOn\HandsOnOperators\bin\Debug\HandsOnOperators.pdb
+D:\c#\HandsOn\HandsOnOperators\obj\Debug\HandsOnOperators.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnOperators\obj\Debug\HandsOnOperators.exe
+D:\c#\HandsOn\HandsOnOperators\obj\Debug\HandsOnOperators.pdb

@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnConvesions\bin\Debug\HandsOnConvesions.exe.config
+D:\c#\HandsOn\HandsOnConvesions\bin\Debug\HandsOnConvesions.exe
+D:\c#\HandsOn\HandsOnConvesions\bin\Debug\HandsOnConvesions.pdb
+D:\c#\HandsOn\HandsOnConvesions\obj\Debug\HandsOnConvesions.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnConvesions\obj\Debug\HandsOnConvesions.exe
+D:\c#\HandsOn\HandsOnConvesions\obj\Debug\HandsOnConvesions.pdb

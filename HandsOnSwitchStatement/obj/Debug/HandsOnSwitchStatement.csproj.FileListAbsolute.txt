@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnSwitchStatement\bin\Debug\HandsOnSwitchStatement.exe.config
+D:\c#\HandsOn\HandsOnSwitchStatement\bin\Debug\HandsOnSwitchStatement.exe
+D:\c#\HandsOn\HandsOnSwitchStatement\bin\Debug\HandsOnSwitchStatement.pdb
+D:\c#\HandsOn\HandsOnSwitchStatement\obj\Debug\HandsOnSwitchStatement.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnSwitchStatement\obj\Debug\HandsOnSwitchStatement.exe
+D:\c#\HandsOn\HandsOnSwitchStatement\obj\Debug\HandsOnSwitchStatement.pdb
