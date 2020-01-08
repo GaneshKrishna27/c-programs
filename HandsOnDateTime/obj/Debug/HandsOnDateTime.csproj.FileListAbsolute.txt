@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnDateTime\bin\Debug\HandsOnDateTime.exe.config
+C:\Users\Dell\source\repos\HandsOnDateTime\bin\Debug\HandsOnDateTime.exe
+C:\Users\Dell\source\repos\HandsOnDateTime\bin\Debug\HandsOnDateTime.pdb
+C:\Users\Dell\source\repos\HandsOnDateTime\obj\Debug\HandsOnDateTime.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnDateTime\obj\Debug\HandsOnDateTime.exe
+C:\Users\Dell\source\repos\HandsOnDateTime\obj\Debug\HandsOnDateTime.pdb

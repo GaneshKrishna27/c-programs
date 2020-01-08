@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnInheritance\bin\Debug\HandsOnInheritance.exe.config
+C:\Users\Dell\source\repos\HandsOnInheritance\bin\Debug\HandsOnInheritance.exe
+C:\Users\Dell\source\repos\HandsOnInheritance\bin\Debug\HandsOnInheritance.pdb
+C:\Users\Dell\source\repos\HandsOnInheritance\obj\Debug\HandsOnInheritance.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnInheritance\obj\Debug\HandsOnInheritance.exe
+C:\Users\Dell\source\repos\HandsOnInheritance\obj\Debug\HandsOnInheritance.pdb

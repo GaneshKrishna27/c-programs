@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnInterface\obj\Debug\HandsOnInterface.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnInterface\bin\Debug\HandsOnInterface.exe.config
+C:\Users\Dell\source\repos\HandsOnInterface\bin\Debug\HandsOnInterface.exe
+C:\Users\Dell\source\repos\HandsOnInterface\bin\Debug\HandsOnInterface.pdb
+C:\Users\Dell\source\repos\HandsOnInterface\obj\Debug\HandsOnInterface.exe
+C:\Users\Dell\source\repos\HandsOnInterface\obj\Debug\HandsOnInterface.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnStudentDetails\bin\Debug\HandsOnStudentDetails.exe.config
+C:\Users\Dell\source\repos\HandsOnStudentDetails\bin\Debug\HandsOnStudentDetails.exe
+C:\Users\Dell\source\repos\HandsOnStudentDetails\bin\Debug\HandsOnStudentDetails.pdb
+C:\Users\Dell\source\repos\HandsOnStudentDetails\obj\Debug\HandsOnStudentDetails.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnStudentDetails\obj\Debug\HandsOnStudentDetails.exe
+C:\Users\Dell\source\repos\HandsOnStudentDetails\obj\Debug\HandsOnStudentDetails.pdb

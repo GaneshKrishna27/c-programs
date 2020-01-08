@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnBankDetails\bin\Debug\HandsOnBankDetails.exe.config
+C:\Users\Dell\source\repos\HandsOnBankDetails\bin\Debug\HandsOnBankDetails.exe
+C:\Users\Dell\source\repos\HandsOnBankDetails\bin\Debug\HandsOnBankDetails.pdb
+C:\Users\Dell\source\repos\HandsOnBankDetails\obj\Debug\HandsOnBankDetails.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnBankDetails\obj\Debug\HandsOnBankDetails.exe
+C:\Users\Dell\source\repos\HandsOnBankDetails\obj\Debug\HandsOnBankDetails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\DeliveryDetails\bin\Debug\DeliveryDetails.exe.config
+C:\Users\Dell\source\repos\DeliveryDetails\bin\Debug\DeliveryDetails.exe
+C:\Users\Dell\source\repos\DeliveryDetails\bin\Debug\DeliveryDetails.pdb
+C:\Users\Dell\source\repos\DeliveryDetails\obj\Debug\DeliveryDetails.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\DeliveryDetails\obj\Debug\DeliveryDetails.exe
+C:\Users\Dell\source\repos\DeliveryDetails\obj\Debug\DeliveryDetails.pdb

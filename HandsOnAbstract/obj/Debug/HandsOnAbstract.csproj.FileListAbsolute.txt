@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnAbstract\bin\Debug\HandsOnAbstract.exe.config
+C:\Users\Dell\source\repos\HandsOnAbstract\bin\Debug\HandsOnAbstract.exe
+C:\Users\Dell\source\repos\HandsOnAbstract\bin\Debug\HandsOnAbstract.pdb
+C:\Users\Dell\source\repos\HandsOnAbstract\obj\Debug\HandsOnAbstract.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnAbstract\obj\Debug\HandsOnAbstract.exe
+C:\Users\Dell\source\repos\HandsOnAbstract\obj\Debug\HandsOnAbstract.pdb

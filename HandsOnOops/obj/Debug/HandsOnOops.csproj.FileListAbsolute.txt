@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\HandsOnOops\bin\Debug\HandsOnOops.exe.config
+C:\Users\Dell\source\repos\HandsOnOops\bin\Debug\HandsOnOops.exe
+C:\Users\Dell\source\repos\HandsOnOops\bin\Debug\HandsOnOops.pdb
+C:\Users\Dell\source\repos\HandsOnOops\obj\Debug\HandsOnOops.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\HandsOnOops\obj\Debug\HandsOnOops.exe
+C:\Users\Dell\source\repos\HandsOnOops\obj\Debug\HandsOnOops.pdb
