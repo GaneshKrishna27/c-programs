@@ -1,0 +1,6 @@
+D:\c#\HandsOn\EmployeeException\bin\Debug\EmployeeException.exe.config
+D:\c#\HandsOn\EmployeeException\bin\Debug\EmployeeException.exe
+D:\c#\HandsOn\EmployeeException\bin\Debug\EmployeeException.pdb
+D:\c#\HandsOn\EmployeeException\obj\Debug\EmployeeException.exe
+D:\c#\HandsOn\EmployeeException\obj\Debug\EmployeeException.pdb
+D:\c#\HandsOn\EmployeeException\obj\Debug\EmployeeException.csprojAssemblyReference.cache

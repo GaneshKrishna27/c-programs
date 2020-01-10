@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnDelegatesDemo1\obj\Debug\HandsOnDelegatesDemo1.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnDelegatesDemo1\bin\Debug\HandsOnDelegatesDemo1.exe.config
+D:\c#\HandsOn\HandsOnDelegatesDemo1\bin\Debug\HandsOnDelegatesDemo1.exe
+D:\c#\HandsOn\HandsOnDelegatesDemo1\bin\Debug\HandsOnDelegatesDemo1.pdb
+D:\c#\HandsOn\HandsOnDelegatesDemo1\obj\Debug\HandsOnDelegatesDemo1.exe
+D:\c#\HandsOn\HandsOnDelegatesDemo1\obj\Debug\HandsOnDelegatesDemo1.pdb

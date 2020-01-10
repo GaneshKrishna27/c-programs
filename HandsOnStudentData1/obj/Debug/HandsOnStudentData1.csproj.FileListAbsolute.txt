@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnStudentData1\bin\Debug\HandsOnStudentData1.exe.config
+D:\c#\HandsOn\HandsOnStudentData1\bin\Debug\HandsOnStudentData1.exe
+D:\c#\HandsOn\HandsOnStudentData1\bin\Debug\HandsOnStudentData1.pdb
+D:\c#\HandsOn\HandsOnStudentData1\obj\Debug\HandsOnStudentData1.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnStudentData1\obj\Debug\HandsOnStudentData1.exe
+D:\c#\HandsOn\HandsOnStudentData1\obj\Debug\HandsOnStudentData1.pdb

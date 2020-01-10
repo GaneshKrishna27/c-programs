@@ -1,0 +1,6 @@
+D:\c#\HandsOn\BookTrain\bin\Debug\BookTrain.exe.config
+D:\c#\HandsOn\BookTrain\bin\Debug\BookTrain.exe
+D:\c#\HandsOn\BookTrain\bin\Debug\BookTrain.pdb
+D:\c#\HandsOn\BookTrain\obj\Debug\BookTrain.csprojAssemblyReference.cache
+D:\c#\HandsOn\BookTrain\obj\Debug\BookTrain.exe
+D:\c#\HandsOn\BookTrain\obj\Debug\BookTrain.pdb

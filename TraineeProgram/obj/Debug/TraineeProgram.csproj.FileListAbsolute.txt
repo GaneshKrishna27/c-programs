@@ -1,0 +1,6 @@
+D:\c#\HandsOn\TraineeProgram\bin\Debug\TraineeProgram.exe.config
+D:\c#\HandsOn\TraineeProgram\bin\Debug\TraineeProgram.exe
+D:\c#\HandsOn\TraineeProgram\bin\Debug\TraineeProgram.pdb
+D:\c#\HandsOn\TraineeProgram\obj\Debug\TraineeProgram.csprojAssemblyReference.cache
+D:\c#\HandsOn\TraineeProgram\obj\Debug\TraineeProgram.exe
+D:\c#\HandsOn\TraineeProgram\obj\Debug\TraineeProgram.pdb

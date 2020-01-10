@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnFileIO", "HandsOnFileIO.csproj", "{F826B3FB-996C-414D-AF44-1101850399BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F826B3FB-996C-414D-AF44-1101850399BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F826B3FB-996C-414D-AF44-1101850399BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F826B3FB-996C-414D-AF44-1101850399BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F826B3FB-996C-414D-AF44-1101850399BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466CAA04-6B1F-4055-B9D6-B6163ABD23D8}
+	EndGlobalSection
+EndGlobal

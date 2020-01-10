@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnFileIO\obj\Debug\HandsOnFileIO.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnFileIO\bin\Debug\HandsOnFileIO.exe.config
+D:\c#\HandsOn\HandsOnFileIO\bin\Debug\HandsOnFileIO.exe
+D:\c#\HandsOn\HandsOnFileIO\bin\Debug\HandsOnFileIO.pdb
+D:\c#\HandsOn\HandsOnFileIO\obj\Debug\HandsOnFileIO.exe
+D:\c#\HandsOn\HandsOnFileIO\obj\Debug\HandsOnFileIO.pdb

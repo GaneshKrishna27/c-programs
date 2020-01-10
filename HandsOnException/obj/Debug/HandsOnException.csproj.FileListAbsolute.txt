@@ -1,0 +1,6 @@
+D:\c#\HandsOn\HandsOnException\bin\Debug\HandsOnException.exe.config
+D:\c#\HandsOn\HandsOnException\bin\Debug\HandsOnException.exe
+D:\c#\HandsOn\HandsOnException\bin\Debug\HandsOnException.pdb
+D:\c#\HandsOn\HandsOnException\obj\Debug\HandsOnException.csprojAssemblyReference.cache
+D:\c#\HandsOn\HandsOnException\obj\Debug\HandsOnException.exe
+D:\c#\HandsOn\HandsOnException\obj\Debug\HandsOnException.pdb

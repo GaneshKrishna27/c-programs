@@ -1,0 +1,6 @@
+D:\c#\HandsOn\CollectionEmployee\obj\Debug\CollectionEmployee.csprojAssemblyReference.cache
+D:\c#\HandsOn\CollectionEmployee\bin\Debug\CollectionEmployee.exe.config
+D:\c#\HandsOn\CollectionEmployee\bin\Debug\CollectionEmployee.exe
+D:\c#\HandsOn\CollectionEmployee\bin\Debug\CollectionEmployee.pdb
+D:\c#\HandsOn\CollectionEmployee\obj\Debug\CollectionEmployee.exe
+D:\c#\HandsOn\CollectionEmployee\obj\Debug\CollectionEmployee.pdb

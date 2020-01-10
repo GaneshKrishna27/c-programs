@@ -1,0 +1,1 @@
+D:\c#\HandsOn\InterfaceIstudent\obj\Debug\InterfaceIstudent.csprojAssemblyReference.cache
