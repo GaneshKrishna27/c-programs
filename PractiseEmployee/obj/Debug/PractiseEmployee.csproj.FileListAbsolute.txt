@@ -1,0 +1,6 @@
+D:\c#\HandsOn\PractiseEmployee\obj\Debug\PractiseEmployee.csprojAssemblyReference.cache
+D:\c#\HandsOn\PractiseEmployee\bin\Debug\PractiseEmployee.exe.config
+D:\c#\HandsOn\PractiseEmployee\bin\Debug\PractiseEmployee.exe
+D:\c#\HandsOn\PractiseEmployee\bin\Debug\PractiseEmployee.pdb
+D:\c#\HandsOn\PractiseEmployee\obj\Debug\PractiseEmployee.exe
+D:\c#\HandsOn\PractiseEmployee\obj\Debug\PractiseEmployee.pdb

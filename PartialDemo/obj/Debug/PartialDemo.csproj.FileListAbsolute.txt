@@ -1,0 +1,6 @@
+D:\c#\HandsOn\PartialDemo\bin\Debug\PartialDemo.exe.config
+D:\c#\HandsOn\PartialDemo\bin\Debug\PartialDemo.exe
+D:\c#\HandsOn\PartialDemo\bin\Debug\PartialDemo.pdb
+D:\c#\HandsOn\PartialDemo\obj\Debug\PartialDemo.csprojAssemblyReference.cache
+D:\c#\HandsOn\PartialDemo\obj\Debug\PartialDemo.exe
+D:\c#\HandsOn\PartialDemo\obj\Debug\PartialDemo.pdb
