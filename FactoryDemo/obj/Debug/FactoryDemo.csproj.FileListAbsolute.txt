@@ -1,0 +1,6 @@
+D:\c#\HandsOn\FactoryDemo\obj\Debug\FactoryDemo.csprojAssemblyReference.cache
+D:\c#\HandsOn\FactoryDemo\bin\Debug\FactoryDemo.exe.config
+D:\c#\HandsOn\FactoryDemo\bin\Debug\FactoryDemo.exe
+D:\c#\HandsOn\FactoryDemo\bin\Debug\FactoryDemo.pdb
+D:\c#\HandsOn\FactoryDemo\obj\Debug\FactoryDemo.exe
+D:\c#\HandsOn\FactoryDemo\obj\Debug\FactoryDemo.pdb

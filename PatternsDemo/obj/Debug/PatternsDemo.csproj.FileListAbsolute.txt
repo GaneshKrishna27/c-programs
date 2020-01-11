@@ -1,0 +1,6 @@
+D:\c#\HandsOn\PatternsDemo\bin\Debug\PatternsDemo.exe.config
+D:\c#\HandsOn\PatternsDemo\bin\Debug\PatternsDemo.exe
+D:\c#\HandsOn\PatternsDemo\bin\Debug\PatternsDemo.pdb
+D:\c#\HandsOn\PatternsDemo\obj\Debug\PatternsDemo.csprojAssemblyReference.cache
+D:\c#\HandsOn\PatternsDemo\obj\Debug\PatternsDemo.exe
+D:\c#\HandsOn\PatternsDemo\obj\Debug\PatternsDemo.pdb
